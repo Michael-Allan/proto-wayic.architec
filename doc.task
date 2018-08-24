@@ -1,5 +1,151 @@
 wayic.architec/doc.task - Documentation in rough
 
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Architectonic`
+    ( ./architectonic
+    < the architectonic of this wayic
+    - from its essential purpose
+        ( § Purpose
+        - here is the logically necessary structure of this wayic
+            ( abstracting from all technical options and other variables
+        - which inheres in any architecture proper to it
+            ( § Architecture
+    [ structure
+        < the necessary structure of the wayic
+        ( key:  (+) mark of a sub-structure  (*) mark of a form
+        + inward
+            *S Formation of a system of personal use
+                + inner
+                    *Gi Formation by the user of the user's way
+                    *Fi Maximization of user freedom
+                + outer
+                    *Go Declaration by the user of the user's way
+                    *Fo Maximization of system availability to non-users
+        + outward
+            *X Extension in society of the system
+                + alterative
+                    *Fa Maximization of system alterability by copy and change
+                    *Fb Maximization of interoperability with alternative systems
+    [ logic
+        < the logic of the structure's necessity
+        - crucial to the logic of the F forms
+            - note that Ms (below) turns neutral facts of omission into moral faults of commission
+        ( key:  (∵) because, since
+
+        +Pw To rightfully establish and maintain in society a system of personal way declaration
+            is the purpose of the wayic
+            < an axiom by § Purpose
+        *S Formation of a system of personal use
+            ∵ S inheres in Pw
+        *X Extension in society of the system
+            ∵ X is necessary to Pw
+                ∵ the system is of personal use
+                    ∵ S
+                ∵ the system is to be established and maintained in society
+                    ∵ Pw
+                ∵ no system of personal use can be established and maintained in society
+                  without extension in society
+
+
+        +Ms A future monopoly of the system owing to a network effect is expected
+            ∵ socially extended systems of personal use are liable to monopoly by network effects
+            ∵ the system is socially extended
+                ∵ X
+            ∵ the system is of personal use
+                ∵ S
+        +Af F rightful attempts to alter the system for sake of personal freedom are foreseen
+            ( ./rightful#F_rightful
+            ∵ a scarcity of alternative systems is foreseen
+                ∵ Ms
+            ∵ faults in systems of personal use restrict personal freedom
+                ∵ system faults restrict system utility and use
+            ∵ the system is of personal use
+                ∵ S
+        *Fa Maximization of system alterability by copy and change
+            ∵ Fa is necessary to Pw
+                ∵ Pw asserts rightful action, which entails the infringement of no right
+                    ( ./rightful
+                ∵ omitting Fa would infringe a right to F by systematic hindrance
+                    ( ./right#right_to_F
+                    ∵ F rightful attempts to alter the system are foreseen
+                        ∵ +Af
+                    ∵ omitting Fa would hinder such attempts
+                        ∵ copy and change is a common, useful means of system alteration
+        *Fb Maximization of interoperability with alternative systems
+            ∵ Fb is necessary to structural consistency
+                ∵ Fa is necessary
+                ∵ Fa is unviable without Fb
+                    ∵ copied and changed systems are expected to have few users
+                      in the absense of system interoperability
+                        ∵ the system is expected to monopolize the user base
+                            ∵ Ms
+
+
+        *Go Declaration by the user of the user's way
+            ∵ Go inheres in Pw
+        *Gi Formation by the user of the user's way
+            ∵ Gi is necessary to Go
+            ∵ Gi is uncommon and afforded by no other system
+        +Ug All use of the system is formally G rightful
+            ( ./rightful#G_rightful
+            ( formally: in the form itself as defined, abstracting from all else
+            ∵ the system has forms Gi and Go
+            ∵ use of Gi is formally G rightful
+                ∵ Gi is G formed
+            ∵ use of Go is formally G rightful
+                ∵ Go is G formed
+        *Fi Maximization of user freedom
+            ∵ Fi is necessary to Pw
+                ∵ Pw asserts rightful action, which entails the infringement of no right
+                    ( ./rightful
+                ∵ omitting Fi would infringe a right by systematic restriction of utility
+                    ∵ rightful demand for use of the system is foreseen
+                        ∵ use of the system is formally rightful
+                            ∵ Ug
+                            ∵ F rightful use of the system is expected
+                                ∵ Af
+                        ∵ a scarcity of alternative systems is foreseen
+                            ∵ Ms
+                    ∵ omitting Fi would restrict utility and use of the system
+                        - omitting Fi would restrict user freedom
+                        - restricting user freedom tends to restrict utility and use
+        *Fo Maximization of system availability to non-users
+            ∵ Fo is necessary to Pw
+                ∵ Pw asserts rightful action, which entails the infringement of no right
+                    ( ./rightful
+                ∵ omitting Fo would infringe a right to G by systematic denial of means
+                    ( ./right#right_to_G
+                    ∵ G rightful demand for use of the system by excluded non-users is foreseen
+                        ∵ Ug
+                        ∵ a scarcity of alternative systems is foreseen
+                            ∵ Ms
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Architecture`
+    ( ./architecture
+    - the architecture of this wayic comprises the architectures of the waycast
+      and the intercast network
+        ( http://reluk.ca/project/wayic/cast/waycast
+        ( http://reluk.ca/project/wayic/intercast/intercast_network
+
+          architecture  =  waycast architecture  +  intercast network architecture
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Purpose`
+    < the essential purpose of this wayic
+    - to rightfully establish and maintain in society a system of personal way declaration
+        ( ./rightful
+        ( http://reluk.ca/project/wayic/personal_way_declaration
+    - infringement of no right
+        - the purpose asserts rightful action, which entails the infringement of no right
+    - rightful action
+        - the purposed system is inherently G form
+            ( see Gi and Go in § Architectonic
+        - given this
+            - and given the infringement of no right
+            - the purposed system is thereby G rightful both to use
+              and to establish and maintain for use
+                ( ./rightful#G_rightful
 
 
                                           Copyright © 2018 Michael Allan and contributors.  Licence MIT.

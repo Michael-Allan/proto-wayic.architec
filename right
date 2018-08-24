@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
+    <head>
+        <title>‘right’</title>
+        </head>
+    <body>
+
+
+<section      id='right-1'>
+    <h2><a href='#right-1'>
+                  right</a><sup> 1</sup></h2>
+    <ul>
+        <li>
+            (adjective) having the forms <a href='form_G'>
+            G</a> and <a href='form_F'>F</a>, and not thereby being <a href='wrong'>
+            wrong</a> <!-- from http://reluk.ca/project/waycast/normative_ethic.xht -->
+            </li>
+        <li>
+            (mass noun) that which has forms G and F, and is not thereby wrong
+            </li>
+        </ul>
+    </section>
+<section      id='right-2'>
+    <h2><a href='#right-2'>
+                  right</a><sup> 2</sup></h2>
+    <ul>
+        <li>
+            (count noun) a moral entitlement, one of <a href='right_to_G'>
+            right to G</a> or <a href='right_to_F'>
+            right to F</a>
+            </li>
+        </ul>
+    <section      id='right_to_G'>
+        <h3><a href='#right_to_G'>
+                      right to G</a></h3>
+        <ul>
+            <li>
+                a moral entitlement to relate the personal to the endmost goal of the person
+                while thereby infringing no right
+                <!-- from http://reluk.ca/project/waycast/normative_ethic.xht -->
+                </li>
+            </ul>
+        </section>
+    <section      id='right_to_F'>
+        <h3><a href='#right_to_F'>
+                      right to F</a></h3>
+        <ul>
+            <li>
+                a moral entitlement to promote a maximum, universal sum of personal freedom
+                while thereby infringing no right
+                <!-- from http://reluk.ca/project/waycast/normative_ethic.xht -->
+                </li>
+            </ul>
+        </section>
+    </section>
+
+
+        </body>
+    </html>
