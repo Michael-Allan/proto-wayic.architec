@@ -141,8 +141,6 @@ wayic.architec/doc.task - Documentation in rough
     ( ./architecture
     - the architecture of this wayic comprises the architectures of the waycast
       and the intercast network
-        ( http://reluk.ca/project/wayic/cast/waycast
-        ( http://reluk.ca/project/wayic/intercast/intercast_network
 
           architecture  =  waycast architecture  +  intercast network architecture
 
