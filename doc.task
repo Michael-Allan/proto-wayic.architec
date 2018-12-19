@@ -3,15 +3,13 @@ wayic.architec/doc.task - Documentation in rough
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Purpose`
     < the essential purpose of this wayic
-        ( transcribed from http://reluk.ca/project/waycast/wayic_architectonic.xht#purpose
     + To rightfully self establish and maintain in society a system of personal way formation
-        ( ./rightful
+        ( transcribed from http://reluk.ca/project/waycast/wayic.xht#purpose
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Architectonic`
     ( ./architectonic
     < the architectonic of this wayic
-        ( transcribed from http://reluk.ca/project/waycast/wayic_architectonic.xht#architectonic
     - from its essential purpose
         ( § Purpose
         - here is the logically necessary structure of this wayic
@@ -20,45 +18,48 @@ wayic.architec/doc.task - Documentation in rough
             ( § Architecture
     [ structure
         < the necessary structure of the wayic
+            ( transcribed from http://reluk.ca/project/waycast/wayic.xht#architectonic
         ( key:  (*) mark of a structural member  (+) of a structural category
         + rightful
-            *G Relation of the personal to the endmost goal of the person
+            *G Relating the personal to the endmost goal of the person
             + right respectful
-                *C Contravention of no right
-                    *Gc Contravention of no rightful relation of the personal to the endmost goal of the person
-                    *Fc Contravention of no rightful promotion of a maximum, universal sum of personal freedom
+                *C Contravening no right
+                    *Gc Contravening no rightful relation of the personal to the endmost goal of the person
+                    *Fc Contravening no rightful promotion of a maximum, universal sum of personal freedom
         + inner
-            *S Formation of a system of personal use
-                + inward
-                    *Gi Formation by the user of the user's way
-                    *Fi Maximization of user freedom
-                + outward
-                    *Go Declaration by the user of the user's way
-                    *Fo Maximization of system availability to non-users
+            *S Personally useful
+                + inward facing
+                    *Gi Affording formation by the user of the user's way
+                    *Fi Maximizing user freedom
+                + outward facing
+                    *Go Affording declaration by the user of the user's way
+                    *Fo Maximizing system availability to non-users
         + outer
-            *X Extension in society of the system
-                + alterative
-                    *Fa Maximization of system alterability by copy and change
-                    *Fb Maximization of interoperability with alternative systems
+            *X Extending in society
+                + open
+                    *Fa Maximizing system alterability by copy and change
+                    *Fb Maximizing interoperability with alternative systems
     [ logic
         < the logic of the structure's necessity
-        - crucial to the logic of the F forms
-            - note that Ms (below) turns neutral facts of omission into moral faults of commission
+        - crucial to the logic of the F forms, Ms (below) turns neutral facts of omission
+          into moral faults of commission
         ( key:  (*) mark of a structural member  (+) of a non-member premise  (∵) because, since
+
 
         +Pw To rightfully self establish and maintain in society a system of personal way formation
             is the purpose of the wayic
             < an axiom by § Purpose
-        *G Relation of the personal to the endmost goal of the person
+
+
+        *C Contravening no right
+            ∵ Pw asserts rightful action, which implies C
+        *G Relating the personal to the endmost goal of the person
             ∵ G inheres in Pw
                 ∵ a way is based on a personal goal, especially a final or endmost goal
                     ( http://reluk.ca/project/wayic/way
-        *C Contravention of no right
-            ∵ Pw asserts rightful action, which implies C
-                ( ./rightful
-        *S Formation of a system of personal use
+        *S Personally useful
             ∵ S inheres in Pw
-        *X Extension in society of the system
+        *X Extending in society
             ∵ X is necessary to Pw
                 ∵ the system is of personal use
                     ∵ S
@@ -68,24 +69,6 @@ wayic.architec/doc.task - Documentation in rough
                   without extension in society
 
 
-        *Gc Contravention of no rightful relation of the personal to the endmost goal of the person
-            ∵ rightful relation of the personal to the endmost goal of the person is a right
-                ( right#right_to_G
-            ∵ no right is contravened
-                ∵ C
-        *Fc Contravention of no rightful promotion of a maximum, universal sum of personal freedom
-            ∵ rightful promotion of a maximum, universal sum of personal freedom is a right
-                ( right#right_to_F
-            ∵ no right is contravened
-                ∵ C
-
-
-        +Ms A future monopoly of the system owing to a network effect is expected
-            ∵ socially extended systems of personal use are liable to monopoly by network effects
-            ∵ the system is socially extended
-                ∵ X
-            ∵ the system is of personal use
-                ∵ S
         +Af F rightful attempts to alter the system for sake of personal freedom are foreseen
             ∵ F form attempts to alter the system for sake of personal freedom are foreseen
                 ∵ a scarcity of alternative systems is foreseen
@@ -96,28 +79,12 @@ wayic.architec/doc.task - Documentation in rough
                     ∵ S
             ∵ F form attempts are expected to be rightful
                 ∵ persons are morally bound to be right respectful
-        *Fa Maximization of system alterability by copy and change
-            ∵ Fa is necessary to Pw
-                ∵ omitting Fa would contravene a right to F by systematic hindrance
-                    ∵ F rightful attempts to alter the system are foreseen
-                        ∵ Af
-                    ∵ omitting Fa would hinder such attempts
-                        ∵ no method of alteration equals the efficiency of copy and change
-                ∵ no right to F is contravened
-                    ∵ Fc
-        *Fb Maximization of interoperability with alternative systems
-            ∵ Fb is necessary to structural consistency
-                ∵ Fa is necessary
-                ∵ Fa is unviable without Fb
-                    ∵ copied and changed systems are expected to have few users
-                      in the absense of system interoperability
-                        ∵ the system is expected to monopolize the user base
-                            ∵ Ms
-
-
-        *Gi Formation by the user of the user's way
-            ∵ Gi inheres in Pw
-            ∵ Gi is uncommon and afforded by no other system
+        +Ms A future monopoly of the system owing to a network effect is expected
+            ∵ socially extended systems of personal use are liable to monopoly by network effects
+            ∵ the system is socially extended
+                ∵ X
+            ∵ the system is of personal use
+                ∵ S
         +Ug The system affords G rightful use by persons
             ∵ the system affords G form use by persons
                 ∵ personal use of the system is G form
@@ -128,7 +95,31 @@ wayic.architec/doc.task - Documentation in rough
                     ∵ form G of the system informs all normal use of the system
             ∵ G form uses are expected to be rightful
                 ∵ persons are morally bound to be right respectful
-        *Fi Maximization of user freedom
+
+
+        *Fa Maximizing system alterability by copy and change
+            ∵ Fa is necessary to Pw
+                ∵ omitting Fa would contravene a right to F by systematic hindrance
+                    ∵ F rightful attempts to alter the system are foreseen
+                        ∵ Af
+                    ∵ omitting Fa would hinder such attempts
+                        ∵ no method of alteration equals the efficiency of copy and change
+                ∵ no right to F is contravened
+                    ∵ Fc
+        *Fb Maximizing interoperability with alternative systems
+            ∵ Fb is necessary to structural consistency
+                ∵ Fa is necessary
+                ∵ Fa is unviable without Fb
+                    ∵ copied and changed systems are expected to have few users
+                      in the absense of system interoperability
+                        ∵ the system is expected to monopolize the user base
+                            ∵ Ms
+        *Fc Contravening no rightful promotion of a maximum, universal sum of personal freedom
+            ∵ rightful promotion of a maximum, universal sum of personal freedom is a right
+                ( right#right_to_F
+            ∵ no right is contravened
+                ∵ C
+        *Fi Maximizing user freedom
             ∵ Fi is necessary to Pw
                 ∵ omitting Fi would contravene a right by systematic hindrance of rightful uses
                     ∵ rightful demand for use of the system is foreseen
@@ -143,7 +134,7 @@ wayic.architec/doc.task - Documentation in rough
                         ∵ restricting user freedom in rightful action tends to hinder use
                 ∵ no right is contravened
                     ∵ C
-        *Fo Maximization of system availability to non-users
+        *Fo Maximizing system availability to non-users
             ∵ Fo is necessary to Pw
                 ∵ omitting Fo would contravene a right to G by systematic denial of means
                     ∵ G rightful demand for adoption of the system by non-users is foreseen
@@ -152,7 +143,15 @@ wayic.architec/doc.task - Documentation in rough
                             ∵ Ms
                 ∵ no right to G is contravened
                     ∵ Gc
-        *Go Declaration by the user of the user's way
+        *Gc Contravening no rightful relation of the personal to the endmost goal of the person
+            ∵ rightful relation of the personal to the endmost goal of the person is a right
+                ( right#right_to_G
+            ∵ no right is contravened
+                ∵ C
+        *Gi Affording formation by the user of the user's way
+            ∵ Gi inheres in Pw
+            ∵ Gi is uncommon and afforded by no other system
+        *Go Affording declaration by the user of the user's way
             ∵ the publication of users' ways is a condition of Fo
                 ∵ not seeing what others do with the system would hinder its adoption by non-users
                     ∵ nothing equals the efficiency of copying
