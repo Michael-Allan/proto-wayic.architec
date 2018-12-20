@@ -9,25 +9,23 @@ wayic.architec/doc.task - Documentation in rough
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Architectonic`
     ( ./architectonic
-    < the architectonic of this wayic
+    < the architectonic of the wayic system
     - from its essential purpose
         ( § Purpose
-        - here is the logically necessary structure of this wayic
+        - here is the logically necessary structure of the wayic system
             ( abstracting from all technical options and other variables
-        - which inheres in any architecture proper to it
+        - which inheres in any architecture proper to it:
             ( § Architecture
-    [ structure
-        < the necessary structure of the wayic
-            ( transcribed from http://reluk.ca/project/waycast/wayic.xht#architectonic
-        ( key:  (*) mark of a structural member  (+) of a structural category
+        ( transcribed from http://reluk.ca/project/waycast/wayic.xht#architectonic
+        ( key:  (+) structural category  (*) structural member
         + rightful
             *G Relating the personal to the endmost goal of the person
             + right respectful
-                *C Contravening no right
-                    *Gc Contravening no rightful relation of the personal to the endmost goal of the person
-                    *Fc Contravening no rightful promotion of a maximum, universal sum of personal freedom
+                *R Contravening no right
+                    *Rg Contravening no rightful relation of the personal to the endmost goal of the person
+                    *Rf Contravening no rightful promotion of a maximum, universal sum of personal freedom
         + inner
-            *S Personally useful
+            *U Personally useful
                 + inward facing
                     *Gi Affording formation by the user of the user's way
                     *Fi Maximizing user freedom
@@ -41,125 +39,123 @@ wayic.architec/doc.task - Documentation in rough
                     *Fb Maximizing interoperability with alternative systems
     [ logic
         < the logic of the structure's necessity
-        - crucial to the logic of the F forms, Ms (below) turns neutral facts of omission
-          into moral faults of commission
-        ( key:  (*) mark of a structural member  (+) of a non-member premise  (∵) because, since
+        ( key:  (∵) because, since
 
-
-        +Pw To rightfully self establish and maintain in society a system of personal way formation
-            is the purpose of the wayic
+        *Pw To rightfully self establish and maintain in society a system of personal way formation
+            is the essential purpose of the wayic
             < an axiom by § Purpose
 
+        + superstructural members
+            *G Relating the personal to the endmost goal of the person
+                ∵ G inheres in Pw
+                    ∵ a way is based on a personal goal, especially a final or endmost goal
+                        ( http://reluk.ca/project/wayic/way
+            *R Contravening no right
+                ∵ Pw asserts rightful action, which implies R
+            *U Personally useful
+                ∵ U inheres in Pw
+            *X Extending in society
+                ∵ X is necessary to Pw
+                    ∵ the system is of personal use
+                        ∵ U
+                    ∵ the system is to be established and maintained in society
+                        ∵ Pw
+                    ∵ no system of personal use can be established and maintained in society
+                      without extension in society
 
-        *C Contravening no right
-            ∵ Pw asserts rightful action, which implies C
-        *G Relating the personal to the endmost goal of the person
-            ∵ G inheres in Pw
-                ∵ a way is based on a personal goal, especially a final or endmost goal
-                    ( http://reluk.ca/project/wayic/way
-        *S Personally useful
-            ∵ S inheres in Pw
-        *X Extending in society
-            ∵ X is necessary to Pw
+        + non-member premises
+            *Af F rightful attempts to alter the system for sake of personal freedom are foreseen
+                ∵ F form attempts to alter the system for sake of personal freedom are foreseen
+                    ∵ a scarcity of alternative systems is foreseen
+                        ∵ Mn
+                    ∵ faults in systems of personal use restrict personal freedom
+                        ∵ system faults restrict system utility and use
+                    ∵ the system is of personal use
+                        ∵ U
+                ∵ F form attempts are expected to be rightful
+                    ∵ persons are morally bound to be right respectful
+            *Mn A future monopoly of the system owing to a network effect is expected
+                ( a crucial premise of the F forms, turning facts of omission into faults of commission
+                ∵ socially extended systems of personal use are liable to monopoly by network effects
+                ∵ the system is socially extended
+                    ∵ X
                 ∵ the system is of personal use
-                    ∵ S
-                ∵ the system is to be established and maintained in society
-                    ∵ Pw
-                ∵ no system of personal use can be established and maintained in society
-                  without extension in society
+                    ∵ U
+            *Ug The system affords G rightful use by persons
+                ∵ the system affords G form use by persons
+                    ∵ personal use of the system is G form
+                        ∵ the system has form G
+                            ∵ G
+                            ∵ Gi has form G
+                            ∵ Go has form G
+                        ∵ form G of the system informs all normal use of the system
+                ∵ G form uses are expected to be rightful
+                    ∵ persons are morally bound to be right respectful
 
-
-        +Af F rightful attempts to alter the system for sake of personal freedom are foreseen
-            ∵ F form attempts to alter the system for sake of personal freedom are foreseen
-                ∵ a scarcity of alternative systems is foreseen
-                    ∵ Ms
-                ∵ faults in systems of personal use restrict personal freedom
-                    ∵ system faults restrict system utility and use
-                ∵ the system is of personal use
-                    ∵ S
-            ∵ F form attempts are expected to be rightful
-                ∵ persons are morally bound to be right respectful
-        +Ms A future monopoly of the system owing to a network effect is expected
-            ∵ socially extended systems of personal use are liable to monopoly by network effects
-            ∵ the system is socially extended
-                ∵ X
-            ∵ the system is of personal use
-                ∵ S
-        +Ug The system affords G rightful use by persons
-            ∵ the system affords G form use by persons
-                ∵ personal use of the system is G form
-                    ∵ the system has form G
-                        ∵ G
-                        ∵ Gi has form G
-                        ∵ Go has form G
-                    ∵ form G of the system informs all normal use of the system
-            ∵ G form uses are expected to be rightful
-                ∵ persons are morally bound to be right respectful
-
-
-        *Fa Maximizing system alterability by copy and change
-            ∵ Fa is necessary to Pw
-                ∵ omitting Fa would contravene a right to F by systematic hindrance
-                    ∵ F rightful attempts to alter the system are foreseen
-                        ∵ Af
-                    ∵ omitting Fa would hinder such attempts
-                        ∵ no method of alteration equals the efficiency of copy and change
-                ∵ no right to F is contravened
-                    ∵ Fc
-        *Fb Maximizing interoperability with alternative systems
-            ∵ Fb is necessary to structural consistency
-                ∵ Fa is necessary
-                ∵ Fa is unviable without Fb
-                    ∵ copied and changed systems are expected to have few users
-                      in the absense of system interoperability
-                        ∵ the system is expected to monopolize the user base
-                            ∵ Ms
-        *Fc Contravening no rightful promotion of a maximum, universal sum of personal freedom
-            ∵ rightful promotion of a maximum, universal sum of personal freedom is a right
-                ( right#right_to_F
-            ∵ no right is contravened
-                ∵ C
-        *Fi Maximizing user freedom
-            ∵ Fi is necessary to Pw
-                ∵ omitting Fi would contravene a right by systematic hindrance of rightful uses
-                    ∵ rightful demand for use of the system is foreseen
-                        ∵ G rightful use is afforded
-                            ∵ Ug
-                        ∵ F rightful use is expected
+        + substructural members
+            *Fa Maximizing system alterability by copy and change
+                ∵ Fa is necessary to Pw
+                    ∵ omitting Fa would contravene a right to F by systematic hindrance
+                        ∵ F rightful attempts to alter the system are foreseen
                             ∵ Af
-                        ∵ a scarcity of alternative systems is foreseen
-                            ∵ Ms
-                    ∵ omitting Fi would hinder such uses
-                        ∵ omitting Fi would restrict user freedom in rightful action
-                        ∵ restricting user freedom in rightful action tends to hinder use
+                        ∵ omitting Fa would hinder such attempts
+                            ∵ no method of alteration equals the efficiency of copy and change
+                    ∵ no right to F is contravened
+                        ∵ Rf
+            *Fb Maximizing interoperability with alternative systems
+                ∵ Fb is necessary to structural consistency
+                    ∵ Fa is necessary
+                    ∵ Fa is unviable without Fb
+                        ∵ copied and changed systems are expected to have few users
+                          in the absense of system interoperability
+                            ∵ the system is expected to monopolize the user base
+                                ∵ Mn
+            *Fi Maximizing user freedom
+                ∵ Fi is necessary to Pw
+                    ∵ omitting Fi would contravene a right by systematic hindrance of rightful uses
+                        ∵ rightful demand for use of the system is foreseen
+                            ∵ G rightful use is afforded
+                                ∵ Ug
+                            ∵ F rightful use is expected
+                                ∵ Af
+                            ∵ a scarcity of alternative systems is foreseen
+                                ∵ Mn
+                        ∵ omitting Fi would hinder such uses
+                            ∵ omitting Fi would restrict user freedom in rightful action
+                            ∵ restricting user freedom in rightful action tends to hinder use
+                    ∵ no right is contravened
+                        ∵ R
+            *Fo Maximizing system availability to non-users
+                ∵ Fo is necessary to Pw
+                    ∵ omitting Fo would contravene a right to G by systematic denial of means
+                        ∵ G rightful demand for adoption of the system by non-users is foreseen
+                            ∵ Ug
+                            ∵ a scarcity of alternative systems is foreseen
+                                ∵ Mn
+                    ∵ no right to G is contravened
+                        ∵ Rg
+            *Gi Affording formation by the user of the user's way
+                ∵ Gi inheres in Pw
+                ∵ Gi is uncommon and afforded by no other system
+            *Go Affording declaration by the user of the user's way
+                ∵ the publication of users' ways is a condition of Fo
+                    ∵ not seeing what others do with the system would hinder its adoption by non-users
+                        ∵ nothing equals the efficiency of copying
+            *Rf Contravening no rightful promotion of a maximum, universal sum of personal freedom
+                ∵ rightful promotion of a maximum, universal sum of personal freedom is a right
+                    ( right#right_to_F
                 ∵ no right is contravened
-                    ∵ C
-        *Fo Maximizing system availability to non-users
-            ∵ Fo is necessary to Pw
-                ∵ omitting Fo would contravene a right to G by systematic denial of means
-                    ∵ G rightful demand for adoption of the system by non-users is foreseen
-                        ∵ Ug
-                        ∵ a scarcity of alternative systems is foreseen
-                            ∵ Ms
-                ∵ no right to G is contravened
-                    ∵ Gc
-        *Gc Contravening no rightful relation of the personal to the endmost goal of the person
-            ∵ rightful relation of the personal to the endmost goal of the person is a right
-                ( right#right_to_G
-            ∵ no right is contravened
-                ∵ C
-        *Gi Affording formation by the user of the user's way
-            ∵ Gi inheres in Pw
-            ∵ Gi is uncommon and afforded by no other system
-        *Go Affording declaration by the user of the user's way
-            ∵ the publication of users' ways is a condition of Fo
-                ∵ not seeing what others do with the system would hinder its adoption by non-users
-                    ∵ nothing equals the efficiency of copying
+                    ∵ R
+            *Rg Contravening no rightful relation of the personal to the endmost goal of the person
+                ∵ rightful relation of the personal to the endmost goal of the person is a right
+                    ( right#right_to_G
+                ∵ no right is contravened
+                    ∵ R
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Architecture`
     ( ./architecture
-    - the architecture of this wayic comprises the architectures of the waycast
+    - the architecture of the wayic system comprises the architectures of the waycast
       and the intercast network
 
           architecture  =  waycast architecture  +  intercast network architecture
