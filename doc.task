@@ -16,51 +16,35 @@ wayic.architec/doc.task - Documentation in rough
             ( abstracting from all technical options and other variables
         - which inheres in any architecture proper to it:
             ( § Architecture
-        ( transcribed from http://reluk.ca/project/waycast/wayic.xht#architectonic
+        ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#architectonic
         ( key:  (+) structural category  (*) structural member
+        + personal
+            *U Personally useful
+                + inward facing
+                    *Gi Affording formation by the user of the user's way
+                + outward facing
+                    *Go Affording declaration by the user of the user's way
+        + social
+            *X Extending in society
+                *Fa Easily available to non-users
+            *H Holding in society
+                + open
+                    *Fc Totally alterable by copy and change
+                    *Fi Highly interoperable with altered copies
         + rightful
             *G Relating the personal to the endmost goal of the person
             + right respectful
                 *R Contravening no right
                     *Rg Contravening no rightful relation of the personal to the endmost goal of the person
                     *Rf Contravening no rightful promotion of a maximum, universal sum of personal freedom
-        + inner
-            *U Personally useful
-                + inward facing
-                    *Gi Affording formation by the user of the user's way
-                    *Fi Maximizing user freedom
-                + outward facing
-                    *Go Affording declaration by the user of the user's way
-                    *Fo Maximizing system availability to non-users
-        + outer
-            *X Extending in society
-                + open
-                    *Fa Maximizing system alterability by copy and change
-                    *Fb Maximizing interoperability with alternative systems
     [ logic
         < the logic of the structure's necessity
         ( key:  (∵) because, since
 
         + non-member premises
+            ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Non-member
             *P The purpose is to rightfully self establish and maintain in society a system of personal way formation
-                ( an axiom, § Purpose
-            *Af F rightful attempts to alter the system for sake of personal freedom are foreseen
-                ∵ F form attempts to alter the system for sake of personal freedom are foreseen
-                    ∵ a scarcity of alternative systems is foreseen
-                        ∵ Mn
-                    ∵ faults in systems of personal use restrict personal freedom
-                        ∵ system faults restrict system utility and use
-                    ∵ the system is of personal use
-                        ∵ U
-                ∵ F form attempts are expected to be rightful
-                    ∵ persons are morally bound to be right respectful
-            *Mn A future monopoly of the system owing to a network effect is expected
-                ( a crucial premise of the F forms, turning facts of omission into faults of commission
-                ∵ socially extended systems of personal use are liable to monopoly by network effects
-                ∵ the system is socially extended
-                    ∵ X
-                ∵ the system is of personal use
-                    ∵ U
+                ( an axiom by § Purpose
             *Ug The system affords G rightful use by persons
                 ∵ the system affords G form use by persons
                     ∵ personal use of the system is G form
@@ -72,11 +56,15 @@ wayic.architec/doc.task - Documentation in rough
                 ∵ G form uses are expected to be rightful
                     ∵ persons are morally bound to be right respectful
 
-        + superstructural members
+        + substructural members
+            ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Substructural
             *G Relating the personal to the endmost goal of the person
                 ∵ G inheres in P
                     ∵ a way is based on a personal goal, especially a final or endmost goal
                         ( http://reluk.ca/project/wayic/way
+            *H Holding in society
+                = ground
+                    - from inherence in P
             *R Contravening no right
                 ∵ P asserts rightful action, which implies R
             *U Personally useful
@@ -90,53 +78,25 @@ wayic.architec/doc.task - Documentation in rough
                     ∵ no system of personal use can be established and maintained in society
                       without extension in society
 
-        + substructural members
-            *Fa Maximizing system alterability by copy and change
-                ∵ Fa is necessary to P
-                    ∵ omitting Fa would contravene a right to F by systematic hindrance
-                        ∵ F rightful attempts to alter the system are foreseen
-                            ∵ Af
-                        ∵ omitting Fa would hinder such attempts
-                            ∵ no method of alteration equals the efficiency of copy and change
-                    ∵ no right to F is contravened
-                        ∵ Rf
-            *Fb Maximizing interoperability with alternative systems
-                ∵ Fb is necessary to structural consistency
-                    ∵ Fa is necessary
-                    ∵ Fa is unviable without Fb
-                        ∵ copied and changed systems are expected to have few users
-                          in the absense of system interoperability
-                            ∵ the system is expected to monopolize the user base
-                                ∵ Mn
-            *Fi Maximizing user freedom
-                ∵ Fi is necessary to P
-                    ∵ omitting Fi would contravene a right by systematic hindrance of rightful uses
-                        ∵ rightful demand for use of the system is foreseen
-                            ∵ G rightful use is afforded
-                                ∵ Ug
-                            ∵ F rightful use is expected
-                                ∵ Af
-                            ∵ a scarcity of alternative systems is foreseen
-                                ∵ Mn
-                        ∵ omitting Fi would hinder such uses
-                            ∵ omitting Fi would restrict user freedom in rightful action
-                            ∵ restricting user freedom in rightful action tends to hinder use
-                    ∵ no right is contravened
-                        ∵ R
-            *Fo Maximizing system availability to non-users
-                ∵ Fo is necessary to P
-                    ∵ omitting Fo would contravene a right to G by systematic denial of means
-                        ∵ G rightful demand for adoption of the system by non-users is foreseen
-                            ∵ Ug
-                            ∵ a scarcity of alternative systems is foreseen
-                                ∵ Mn
-                    ∵ no right to G is contravened
-                        ∵ Rg
+        + superstructural members
+            ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Superstructural
+            *Fa Easily available to non-users
+                = reground
+                    ( old, invalid version is swatched
+                    - on self establishment, from P
+            *Fc Totally alterable by copy and change
+                = reground
+                    ( old, invalid version is swatched
+                    - as per wayic.read project.task § premise
+            *Fi Highly interoperable with altered copies
+                = reground
+                    ( old, invalid version is swatched
+                    - as per wayic.read project.task § premise
             *Gi Affording formation by the user of the user's way
                 ∵ Gi inheres in P
                 ∵ Gi is uncommon and afforded by no other system
             *Go Affording declaration by the user of the user's way
-                ∵ the publication of users' ways is a condition of Fo
+                ∵ the publication of users' ways is a condition of Fa
                     ∵ not seeing what others do with the system would hinder its adoption by non-users
                         ∵ nothing equals the efficiency of copying
             *Rf Contravening no rightful promotion of a maximum, universal sum of personal freedom
