@@ -26,45 +26,66 @@ wayic.architec/doc.task - Documentation in rough
                     *Go Affording declaration by the user of the user's way
         + social
             *X Extending in society
-                *Fa Easily available to non-users
+                *Fx Easily available to non-users
             *H Holding in society
                 + open
-                    *Fc Totally alterable by copy and change
-                    *Fi Highly interoperable with altered copies
+                    *Fa Alterable in crucial functions by copy and change
+                    *Fi Interoperable to altered copies in crucial functions
         + rightful
             *G Relating the personal to the endmost goal of the person
             + right respectful
                 *R Contravening no right
-                    *Rg Contravening no rightful relation of the personal to the endmost goal of the person
-                    *Rf Contravening no rightful promotion of a maximum, universal sum of personal freedom
+                    *Rg Contravening no rightful relation of the personal to the endmost goal
+                        of the person
+                    *Rf Contravening no rightful promotion of a maximum, universal sum
+                        of personal freedom
     [ logic
         < the logic of the structure's necessity
         ( key:  (∵) because, since
 
         + non-member premises
             ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Non-member
-            *P The purpose is to rightfully self establish and maintain in society a system of personal way formation
+            *P The purpose is to rightfully self establish and maintain in society
+               a system of personal way formation
                 ( an axiom by § Purpose
-            *Ug The system affords G rightful use by persons
-                ∵ the system affords G form use by persons
-                    ∵ personal use of the system is G form
-                        ∵ the system has form G
-                            ∵ G
-                            ∵ Gi has form G
-                            ∵ Go has form G
-                        ∵ form G of the system informs all normal use of the system
-                ∵ G form uses are expected to be rightful
-                    ∵ persons are morally bound to be right respectful
+            *Fai Omitting Fa or Fi would risk contravening a right
+                ∵ omitting Fa or Fi would promote a personal service monopoly
+                    ∵ the system provides a personal service
+                        ∵ U
+                    ∵ the system is socially extended
+                        ∵ X
+                    ∵ any socially extended personal service is liable to network effects
+                      that tilt the competitive landscape, and risk tipping it into a monopoly
+                    ∵ under the pressure of network effects,
+                      only Fa and Fi can hold a competitive landscape level
+                ∵ a personal service monopoly would likely contravene a right to F
+                    ∵ any F rightful, independent attempt to correct the service supply
+                      would likely be impeded by the monopoly
+                        ∵ monopolies tend to impede independent attempts at supply correction
+                    ∵ some such F rightful, independent attempts would be likely
+                        ∵ some F *form* independent attempts would be likely
+                            ∵ all service supplies have faults
+                            ∵ faults in the supply of personal services tend to restrict
+                              personal freedom
+                                ∵ supply faults tend to restrict utility and use of a service
+                                ∵ to restrict utility or use of a personal service
+                                  is to restrict personal freedom
+                            ∵ correction of such restrictive faults would be in high demand
+                                ∵ people tend to oppose restrictions on their personal freedom
+                            ∵ any such correction would inherently be F form
+                        ∵ some of these F form attempts would likely be F rightful
+                            ∵ not all F form attempts would likely be wrong
+                            ∵ not being wrong, an F form attempt is thereby F rightful
 
         + substructural members
             ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Substructural
             *G Relating the personal to the endmost goal of the person
                 ∵ G inheres in P
-                    ∵ a way is based on a personal goal, especially a final or endmost goal
+                    ∵ essential to P is the concept of a personal service relating to one's way
+                    ∵ essential to one's way is a goal, especially a final or endmost goal
                         ( http://reluk.ca/project/wayic/way
             *H Holding in society
-                = ground
-                    - from inherence in P
+                ∵ H inheres in P
             *R Contravening no right
                 ∵ P asserts rightful action, which implies R
             *U Personally useful
@@ -80,23 +101,24 @@ wayic.architec/doc.task - Documentation in rough
 
         + superstructural members
             ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Superstructural
-            *Fa Easily available to non-users
-                = reground
-                    ( old, invalid version is swatched
-                    - on self establishment, from P
-            *Fc Totally alterable by copy and change
-                = reground
-                    ( old, invalid version is swatched
-                    - as per wayic.read project.task § premise
-            *Fi Highly interoperable with altered copies
-                = reground
-                    ( old, invalid version is swatched
-                    - as per wayic.read project.task § premise
+            *Fa Alterable in crucial functions by copy and change
+                ∵ omitting Fa would risk contravening a right
+                    ∵ Fai
+                ∵ no right is contravened
+                    ∵ R
+            *Fi Interoperable to altered copies in crucial functions
+                - operational data are visible to any crucial function of an altered copy
+                  that depend on them
+                ∵ omitting Fi would risk contravening a right
+                    ∵ Fai
+                ∵ no right is contravened
+                    ∵ R
+            *Fx Easily available to non-users
+                ∵ X would be infeasible without Fx
             *Gi Affording formation by the user of the user's way
                 ∵ Gi inheres in P
-                ∵ Gi is uncommon and afforded by no other system
             *Go Affording declaration by the user of the user's way
-                ∵ the publication of users' ways is a condition of Fa
+                ∵ the publication of users' ways is a condition of Fx
                     ∵ not seeing what others do with the system would hinder its adoption by non-users
                         ∵ nothing equals the efficiency of copying
             *Rf Contravening no rightful promotion of a maximum, universal sum of personal freedom
