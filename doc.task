@@ -135,10 +135,17 @@ wayic.architec/doc.task - Documentation in rough
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Architecture`
     ( ./architecture
-    - the architecture of the wayic system comprises the architectures of the waycast
-      and the intercast network
+    - the architecture of the wayic system comprises the waycast, the intercast network and ancillaries
 
-          architecture  =  waycast architecture  +  intercast network architecture
+          architecture  =  waycast  +  intercast network  +  ancillaries
+
+    * the waycast
+        < http://reluk.ca/project/wayic/cast/
+    * the intercast network
+        < http://reluk.ca/project/wayic/intercast/
+    * ancillaries
+        < http://reluk.ca/project/wayic/
+        - supplementary service and support facilities
 
 
 
