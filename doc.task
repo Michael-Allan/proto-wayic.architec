@@ -80,6 +80,7 @@ wayic.architec/doc.task - Documentation in rough
         + substructural members
             ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Substructural
             *G Relating the personal to the endmost goal of the person
+                < architectural formation: § Architecture § waycast
                 ∵ G inheres in P
                     ∵ essential to P is the concept of a personal service relating to one's way
                     ∵ essential to one's way is a goal, especially a final or endmost goal
@@ -89,8 +90,10 @@ wayic.architec/doc.task - Documentation in rough
             *R Contravening no right
                 ∵ P asserts rightful action, which implies R
             *U Personally useful
+                < architectural formation: § Architecture § waycast
                 ∵ U inheres in P
             *X Extending in society
+                < architectural formation: § Architecture § intercast network
                 ∵ X is necessary to P
                     ∵ the system is of personal use
                         ∵ U
@@ -139,13 +142,20 @@ wayic.architec/doc.task - Documentation in rough
 
           architecture  =  waycast  +  intercast network  +  ancillaries
 
-    * the waycast
-        < http://reluk.ca/project/wayic/cast/
-    * the intercast network
-        < http://reluk.ca/project/wayic/intercast/
-    * ancillaries
-        < http://reluk.ca/project/wayic/
+    + waycast
+        - the waycast
+            < http://reluk.ca/project/wayic/cast/
+        - forms architectonic members:
+            *G Relating the personal to the endmost goal of the person
+            *U Personally useful
+    + intercast network
+        - the intercast network
+            < http://reluk.ca/project/wayic/intercast/
+        - forms architectonic member:
+            *X Extending in society
+    + ancillaries
         - supplementary service and support facilities
+            < http://reluk.ca/project/wayic/
 
 
 
