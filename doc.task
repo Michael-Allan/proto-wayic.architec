@@ -145,13 +145,12 @@ wayic.architec/doc.task - Documentation in rough
     + waycast
         - the waycast
             < http://reluk.ca/project/wayic/cast/
-        - forms architectonic members:
+        - the waycast directly forms architectonic members:
             *G Relating the personal to the endmost goal of the person
             *U Personally useful
-    + intercast network
-        - the intercast network
-            < http://reluk.ca/project/wayic/intercast/
-        - forms architectonic member:
+    + intercast networks
+        < http://reluk.ca/project/wayic/intercast/
+        - intercast networks directly form architectonic member:
             *X Extending in society
     + ancillaries
         - supplementary service and support facilities
@@ -159,4 +158,4 @@ wayic.architec/doc.task - Documentation in rough
 
 
 
-                                          Copyright © 2018 Michael Allan and contributors.  Licence MIT.
+                                     Copyright © 2018-2019 Michael Allan and contributors.  Licence MIT.
