@@ -1,4 +1,4 @@
-wayic.architec/doc.task - Documentation in rough
+wayic/architec/doc.task - Documentation in rough
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Purpose`
@@ -111,7 +111,7 @@ wayic.architec/doc.task - Documentation in rough
                     ∵ R
             *Fi Interoperable to altered copies in crucial functions
                 - operational data are visible to any crucial function of an altered copy
-                  that depend on them
+                  that depends on them
                 ∵ omitting Fi would risk contravening a right
                     ∵ Fai
                 ∵ no right is contravened
