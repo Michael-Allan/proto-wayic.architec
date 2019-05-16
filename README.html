@@ -24,12 +24,12 @@
     The files for this project are released under an <a href='LICENCE.txt'>MIT licence</a>.
     </p>
 <ul lang='en-CA'>
-    <li>Readable copy of latest files at <a href='http://reluk.ca/project/wayic/architec/'>reluk.ca</a></li>
+    <li>Readable copy of latest files at <a href='http://reluk.ca/project/proto-wayic/architec/'>reluk.ca</a></li>
     <li>Browsable revision history at <a>GitHub</a> (top of this page) *</li>
     <li>
         Bare <code>.git</code> clones at
-        <a href=    'http://reluk.ca/var/repo/git/wayic.architec.git'>reluk.ca</a> or
-        <a href='https://github.com/Michael-Allan/wayic.architec.git'>GitHub</a> *
+        <a href=    'http://reluk.ca/var/repo/git/proto-wayic.architec.git'>reluk.ca</a> or
+        <a href='https://github.com/Michael-Allan/proto-wayic.architec.git'>GitHub</a> *
         <div style='font-size:0.85em; margin-top:1em; opacity:0.7'>
             * Branch reluk.ca is liable to be rebased, master is stable.
             </div>
@@ -57,7 +57,7 @@
                 if( t.localName !== 'a' ) continue;
 
                 var maybeFinished = false;
-                if( !isCorrect_reluk && t.href === 'http://reluk.ca/project/wayic/architec/' )
+                if( !isCorrect_reluk && t.href === 'http://reluk.ca/project/proto-wayic/architec/' )
                 {
                   // Disable useless link, append text directions instead
                   // --------------------
@@ -77,7 +77,7 @@
                           // Remove deceptive text directions, enable link instead
                           // --------------------------------
                             text.replaceData( 0, text.length, ' *' ); // Leaving only the last bit
-                            t.setAttribute( 'href', 'https://github.com/Michael-Allan/wayic.architec/' );
+                            t.setAttribute( 'href', 'https://github.com/Michael-Allan/proto-wayic.architec/' );
                             isCorrect_github = maybeFinished = true;
                         }
                     }
