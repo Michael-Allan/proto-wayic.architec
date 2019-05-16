@@ -1,10 +1,10 @@
-wayic/architec/doc.task - Documentation in rough
+proto-wayic/architec/doc.task - Documentation in rough
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Purpose`
     < the purpose of this wayic
     + To rightfully self establish and maintain in society a system of personal way formation
-        ( transcribed from http://reluk.ca/project/waycast/wayic.xht#purpose
+        ( transcribed from http://reluk.ca/project/proto-waycast/wayic.xht#purpose
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Architectonic`
@@ -16,7 +16,7 @@ wayic/architec/doc.task - Documentation in rough
             ( abstracting from all technical options and other variables
         - which inheres in any architecture proper to it:
             ( § Architecture
-        ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#architectonic
+        ( partly transcribed from ← http://reluk.ca/project/proto-waycast/wayic.xht#architectonic
         ( key:  (+) structural category  (*) structural member
         + personal
             *U Personally useful
@@ -44,7 +44,7 @@ wayic/architec/doc.task - Documentation in rough
         ( key:  (∵) because, since
 
         + non-member premises
-            ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Non-member
+            ( partly transcribed from ← http://reluk.ca/project/proto-waycast/wayic.xht#Non-member
             *P The purpose is to rightfully self establish and maintain in society
                a system of personal way formation
                 ( an axiom by § Purpose
@@ -78,13 +78,13 @@ wayic/architec/doc.task - Documentation in rough
                             ∵ not being wrong, an F form attempt is thereby F rightful
 
         + substructural members
-            ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Substructural
+            ( partly transcribed from ← http://reluk.ca/project/proto-waycast/wayic.xht#Substructural
             *G Relating the personal to the endmost goal of the person
                 < architectural formation: § Architecture § waycast
                 ∵ G inheres in P
                     ∵ essential to P is the concept of a personal service relating to one's way
                     ∵ essential to one's way is a goal, especially a final or endmost goal
-                        ( http://reluk.ca/project/wayic/way
+                        ( http://reluk.ca/project/proto-wayic/way
             *H Holding in society
                 ∵ H inheres in P
             *R Contravening no right
@@ -103,7 +103,7 @@ wayic/architec/doc.task - Documentation in rough
                       without extension in society
 
         + superstructural members
-            ( partly transcribed from ← http://reluk.ca/project/waycast/wayic.xht#Superstructural
+            ( partly transcribed from ← http://reluk.ca/project/proto-waycast/wayic.xht#Superstructural
             *Fa Alterable in crucial functions by copy and change
                 ∵ omitting Fa would risk contravening a right
                     ∵ Fai
@@ -144,17 +144,17 @@ wayic/architec/doc.task - Documentation in rough
 
     + waycast
         - the waycast
-            < http://reluk.ca/project/wayic/cast/
+            < http://reluk.ca/project/proto-wayic/cast/
         - the waycast directly forms architectonic members:
             *G Relating the personal to the endmost goal of the person
             *U Personally useful
     + intercast networks
-        < http://reluk.ca/project/wayic/intercast/
+        < http://reluk.ca/project/proto-wayic/intercast/
         - intercast networks directly form architectonic member:
             *X Extending in society
     + ancillaries
         - supplementary service and support facilities
-            < http://reluk.ca/project/wayic/
+            < http://reluk.ca/project/proto-wayic/
 
 
 
